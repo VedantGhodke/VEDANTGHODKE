@@ -34,8 +34,11 @@
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
 - Please feel free to reach out to me via LinkedIn or email for any exciting technological discussions. Together we can make open source coding culture stronger!
 <br>
+
 ### "When something is important enough, you do it even if the odds are not in your favor!"
+
 <br>
+
 ### Languages And Tool Stacks:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
