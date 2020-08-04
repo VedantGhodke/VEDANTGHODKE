@@ -30,5 +30,5 @@
 - I am an Artificial Intelligence, Machine Learning and Deep Learning enthusiast and an ardent developer of these technologies.
 - Please feel free to reach out to me via email for any exciting technological discussions, together we can make open source coding stronger!
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=FFFF00&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=#FF6600&icon_color=00FFFF&text_color=daf7dc&bg_color=191919">
 
