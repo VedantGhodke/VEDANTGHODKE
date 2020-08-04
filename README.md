@@ -1,4 +1,4 @@
-# VEDANT GHODKE
+# Vedant Ghodke
 
 ### Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
 
