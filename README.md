@@ -35,7 +35,6 @@
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
 - Please feel free to reach out to me via LinkedIn or email for any exciting technological discussions. Together we can make open source coding culture stronger!
-<br>
 
 ### Languages And Tool Stacks:
 
