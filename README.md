@@ -2,6 +2,8 @@
 
 ### Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
 
+### "When something is important enough, you do it even if the odds are not in your favor!"
+
 <br>
 
   <a href="http://vedantghodke.github.io">
@@ -33,10 +35,6 @@
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
 - Please feel free to reach out to me via LinkedIn or email for any exciting technological discussions. Together we can make open source coding culture stronger!
-<br>
-
-### "When something is important enough, you do it even if the odds are not in your favor!"
-
 <br>
 
 ### Languages And Tool Stacks:
