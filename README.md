@@ -1,4 +1,4 @@
-## Hello, I am Vedant Ghodke! Welcome to my GitHub profile!
+## Hello there, fellow coder, I am Vedant Ghodke! Welcome to my GitHub profile!
 
 ### "When something is important enough, you do it even if the odds are not in your favor!"
 <br>
