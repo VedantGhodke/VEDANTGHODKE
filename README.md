@@ -1,8 +1,7 @@
 # VEDANT GHODKE
 
-## Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
+### Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
 
-### "When something is important enough, you do it even if the odds are not in your favor!"
 <br>
 
   <a href="http://vedantghodke.github.io">
@@ -29,7 +28,10 @@
   <a href="https://stackoverflow.com/users/13700415/vedant-ghodke">
     <img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
-   
+<br>
+
+### "When something is important enough, you do it even if the odds are not in your favor!"
+
 <br><br>
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
