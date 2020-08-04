@@ -1,6 +1,6 @@
-### Hello, I am Vedant Ghodke! Welcome to my GitHub profile!
+## Hello, I am Vedant Ghodke! Welcome to my GitHub profile!
 
-# "When something is important enough, you do it even if the odds are not in your favor!"
+### "When something is important enough, you do it even if the odds are not in your favor!"
 
   <a href="http://vedantghodke.github.io">
     <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/actigraph.svg" />
