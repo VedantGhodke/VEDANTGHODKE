@@ -1,7 +1,7 @@
 ### Hello, I am Vedant Ghodke! Welcome to my GitHub profile!
 
   <a href="http://vedantghodke.github.io">
-    <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />
+    <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/actigraph.svg" />
   </a>
   <a href="https://www.linkedin.com/in/vedantghodke/">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -27,4 +27,4 @@
 - I am an Artificial Intelligence, Machine Learning and Deep Learning enthusiast and an ardent developer of these technologies.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE)](https://github.com/VEDANTGHODKE/github-readme-stats)">
+<img src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
