@@ -30,8 +30,12 @@
   <a href="https://stackoverflow.com/users/13700415/vedant-ghodke">
     <img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
+<br>
+<br>
 
-<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=00FF66&text_color=daf7dc&bg_color=191919">
+
+<br>
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
 - Please feel free to reach out to me via LinkedIn or email for any exciting technological discussions. Together we can make open source coding culture stronger!
@@ -52,5 +56,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=00FF66&text_color=daf7dc&bg_color=191919">
+
+<img align="center" src="https://github.com/VEDANTGHODKE/GitHub-Profile-Language-Percentage-Calculator/raw/master/Vedant%20Ghodke%20-%20GitHub%20Language%20Percentage.png">
 
