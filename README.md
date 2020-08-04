@@ -1,5 +1,7 @@
 ### Hello, I am Vedant Ghodke! Welcome to my GitHub profile!
 
+# "When something is important enough, you do it even if the odds are not in your favor!"
+
   <a href="http://vedantghodke.github.io">
     <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/actigraph.svg" />
   </a>
@@ -25,6 +27,8 @@
 <br><br>
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering from Vishwakarma Institute Of Technology, Pune
 - I am an Artificial Intelligence, Machine Learning and Deep Learning enthusiast and an ardent developer of these technologies.
+- Please feel free to reach out to me via email for any exciting technological discussions, together we can make open source coding stronger!
 
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
