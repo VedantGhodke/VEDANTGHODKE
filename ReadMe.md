@@ -1,5 +1,10 @@
 # Vedant Ghodke
 
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
+[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
+
 ### Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
 
 ### "When something is important enough, you do it even if the odds are not in your favor!"
@@ -39,12 +44,31 @@ https://gitstats.me/VEDANTGHODKE
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=00FF66&text_color=daf7dc&bg_color=191919">
+<br>
+### Areas Of Work:
+
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1596/1596639.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/944/944179.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2235/2235061.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3003/3003696.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2885/2885535.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3056/3056301.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3118/3118399.svg"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
+
+<br>
 
 ### About Me
 
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
 - Please feel free to reach out to me via LinkedIn or email for any exciting technological discussions. Together we can make open source coding culture stronger!
+- [Please find my CV on this link](https://www.dropbox.com/s/21barxda4ppv3or/VEDANT%20GHODKE%20-%20RESUME.pdf?dl=0)
 
 <br>
 
@@ -66,9 +90,14 @@ https://gitstats.me/VEDANTGHODKE
 
 <br>
 
-![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
+[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
 
 <br>
 
 <img align="center" src="https://github.com/VEDANTGHODKE/GitHub-Profile-Language-Percentage-Calculator/raw/master/Vedant%20Ghodke%20-%20GitHub%20Language%20Percentage.png">
+<br>
 
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="vedantghodke" data-description="Support me if you love my work!" data-message="Thank you for visiting my GitHub profile!" data-color="#FF813F" data-position="" data-x_margin="18" data-y_margin="18"></script>
