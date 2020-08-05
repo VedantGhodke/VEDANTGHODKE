@@ -98,6 +98,7 @@ https://gitstats.me/VEDANTGHODKE
 
 <br>
 
+<p align="center">
 <a href="https://www.buymeacoffee.com/VedantGhodke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Support My Work Here!" height="40" width="170" ></a>
 
 <br>
