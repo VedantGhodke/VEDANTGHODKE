@@ -45,6 +45,7 @@ https://gitstats.me/VEDANTGHODKE
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=00FF66&text_color=daf7dc&bg_color=191919">
 <br>
+
 ### Areas Of Work:
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
@@ -68,7 +69,7 @@ https://gitstats.me/VEDANTGHODKE
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
 - Please feel free to reach out to me via LinkedIn or email for any exciting technological discussions. Together we can make open source coding culture stronger!
-- [Please find my CV on this link](https://www.dropbox.com/s/21barxda4ppv3or/VEDANT%20GHODKE%20-%20RESUME.pdf?dl=0)
+- Find my Resume on this link : https://www.dropbox.com/s/21barxda4ppv3or/VEDANT%20GHODKE%20-%20RESUME.pdf?dl=0
 
 <br>
 
@@ -97,7 +98,10 @@ https://gitstats.me/VEDANTGHODKE
 
 <br>
 
+<a href="https://www.buymeacoffee.com/VedantGhodke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Support My Work Here!" height="40" width="170" ></a>
+
+<br>
+
 <img align="center" src="https://github.com/VEDANTGHODKE/GitHub-Profile-Language-Percentage-Calculator/raw/master/Vedant%20Ghodke%20-%20GitHub%20Language%20Percentage.png">
 <br>
 
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="vedantghodke" data-description="Support me if you love my work!" data-message="Thank you for visiting my GitHub profile!" data-color="#FF813F" data-position="" data-x_margin="18" data-y_margin="18"></script>
