@@ -1,4 +1,4 @@
-# Vedant Ghodke
+# VEDANT GHODKE
 
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
 [![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
