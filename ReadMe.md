@@ -103,6 +103,3 @@ https://gitstats.me/VEDANTGHODKE
 
 <br>
 
-<img align="center" src="https://github.com/VEDANTGHODKE/GitHub-Profile-Language-Percentage-Calculator/raw/master/Vedant%20Ghodke%20-%20GitHub%20Language%20Percentage.png">
-<br>
-
