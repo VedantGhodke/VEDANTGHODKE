@@ -1,14 +1,5 @@
 # VEDANT GHODKE
 
-[![Actions Status](https://github.com/VEDANTGHODKE/VEDANTGHODKE/workflows/wakatime-stats/badge.svg)]()
-[![Actions Status](https://github.com/VEDANTGHODKE/VEDANTGHODKE/workflows/update-gh-activity/badge.svg)]()
-![](https://visitor-badge.glitch.me/badge?page_id=VEDANTGHODKE.VEDANTGHODKE)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
-
-### Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
-
-### "When something is important enough, you do it even if the odds are not in your favor!"
-
 <br>
 
   <a href="http://vedantghodke.github.io">
@@ -35,6 +26,13 @@
   <a href="https://stackoverflow.com/users/13700415/vedant-ghodke">
     <img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
+<br>
+
+
+### Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
+
+### "When something is important enough, you do it even if the odds are not in your favor!"
+
 <br>
 
 ### GitHub Statistics
