@@ -33,14 +33,14 @@
 
 ### "When something is important enough, you do it even if the odds are not in your favor!"
 
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=00FF66&text_color=daf7dc&bg_color=191919">
+
 ### GitHub Statistics
 
 https://gitstats.me/VEDANTGHODKE
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VEDANTGHODKE&&show_icons=true&title_color=ffffff&icon_color=00FF66&text_color=daf7dc&bg_color=191919">
-<br>
 
 ### Areas Of Work:
 
@@ -89,7 +89,6 @@ https://gitstats.me/VEDANTGHODKE
 
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) 
 ![](https://visitor-badge.glitch.me/badge?page_id=VEDANTGHODKE.VEDANTGHODKE)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
 
 <br>
 
