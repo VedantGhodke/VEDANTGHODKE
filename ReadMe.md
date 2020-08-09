@@ -1,8 +1,8 @@
 # VEDANT GHODKE
 
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
-[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+[![Actions Status](https://github.com/VEDANTGHODKE/VEDANTGHODKE/workflows/wakatime-stats/badge.svg)]()
+[![Actions Status](https://github.com/VEDANTGHODKE/VEDANTGHODKE/workflows/update-gh-activity/badge.svg)]()
+![](https://visitor-badge.glitch.me/badge?page_id=VEDANTGHODKE.VEDANTGHODKE)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
 
 ### Hello there, fellow coder! Welcome to my GitHub profile! You'll be amazed to see the projects developed and designed by me!
@@ -91,9 +91,9 @@ https://gitstats.me/VEDANTGHODKE
 
 <br>
 
-![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)]()
-[![Actions Status](https://github.com/eagleanurag/eagleanurag/workflows/update-gh-activity/badge.svg)]()
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) [![Actions Status](https://github.com/VEDANTGHODKE/VEDANTGHODKE/workflows/wakatime-stats/badge.svg)]()
+[![Actions Status](https://github.com/VEDANTGHODKE/VEDANTGHODKE/workflows/update-gh-activity/badge.svg)]()
+![](https://visitor-badge.glitch.me/badge?page_id=VEDANTGHODKE.VEDANTGHODKE)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-628-blue)
 
 <br>
