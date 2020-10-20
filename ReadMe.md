@@ -64,8 +64,7 @@ https://gitstats.me/VEDANTGHODKE
 
 - I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
-- Please feel free to reach out to me via LinkedIn or email for any exciting technological discussions. Together we can make open source coding culture stronger!
-- Find my Resume on this link : https://www.dropbox.com/s/21barxda4ppv3or/VEDANT%20GHODKE%20-%20RESUME.pdf?dl=0
+- Please feel free to reach out to me via LinkedIn, Instagram or email for any exciting technological discussions. Together we can make open source coding culture stronger!
 
 <br>
 
