@@ -1,6 +1,6 @@
 # Vedant Ghodke
 
-### Technical Undergraduate SWE Intern At Cisco | Ex-Artificial Intelligence Intern At Microsoft, India
+### Associate Solutions Engineer At Cisco | Ex-Artificial Intelligence Intern At Microsoft, India
 
 <br>
 
