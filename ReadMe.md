@@ -64,7 +64,8 @@ https://gitstats.me/VEDANTGHODKE
 
 ### About Me
 
-- I currently am a student pursuing B.Tech in Electronics and Telecommunications Engineering at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.
+- Currently a Solutions Engineer (Security) at Cisco.
+- B.Tech in Electronics and Telecommunications Engineering from University of Pune, Maharashtra, India.
 - I am an Artificial Intelligence, Machine Learning Deep Learning and Artificial Neural Networks enthusiast and an ardent developer and modeller of these technologies.
 - Please feel free to reach out to me via LinkedIn, Instagram or email for any exciting technological discussions. Together we can make open source coding culture stronger!
 
