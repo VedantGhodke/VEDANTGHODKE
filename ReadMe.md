@@ -1,6 +1,6 @@
 # Vedant Ghodke
 
-### Associate Solutions Engineer At Cisco | Ex-Artificial Intelligence Intern At Microsoft, India
+### Solutions Engineer (Security) At Cisco
 
 <br>
 
